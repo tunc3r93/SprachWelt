@@ -1,0 +1,25 @@
+.navbar {
+    background-color: #cee6e6;
+    padding: 1rem;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-item {
+    margin-left: 1rem;
+}
+
+.navbar-link{
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s;
+}
+
+.navbar-item:hover {
+    background-color: rgba(173, 184, 184, 0.8);
+    border-radius: 5px;
+}
