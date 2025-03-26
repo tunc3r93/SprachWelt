@@ -15,13 +15,13 @@ const Navbar = () => {
                         </a>
                     </li>
                     <li className="navbar-item">
-                        <a href="/about" className="navbar-link">
-                            Über mich
+                        <a href="/choose-language" className="navbar-link">
+                            Sprachenauswahl
                         </a>
                     </li>
                     <li className="navbar-item">
-                        <a href="/contact" className="navbar-link">
-                            Meine Projekte
+                        <a href="/learn-type" className="navbar-link">
+                            Lernmethode
                         </a>
                     </li>
                 </ul>
